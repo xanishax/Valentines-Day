@@ -10,11 +10,11 @@ body {
 
 /* Bunny Image */
 .bunny {
-  width: 50vw;   /* 50% of screen width */
-  max-width: 100px;
+  width: 60px;
   height: auto;
   margin-bottom: 10px;
 }
+
 
 
 /* Buttons */
