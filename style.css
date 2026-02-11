@@ -10,7 +10,7 @@ body {
 
 /* Bunny Image */
 .bunny {
-  width: 160px;
+  width: 160px !important;
   height: auto;
   margin-bottom: 10px;
 }
