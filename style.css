@@ -8,15 +8,13 @@ body {
   overflow: hidden;
 }
 
-/* Bunny */
-
+/* Bunny Image */
 .bunny {
-  font-size: 60px;
+  width: 120px;
   margin-bottom: 10px;
 }
 
 /* Buttons */
-
 button {
   background-color: white;
   color: #005eff;
@@ -35,7 +33,6 @@ button:hover {
 }
 
 /* Celebration section */
-
 #celebration img {
   max-width: 300px;
   margin-top: 15px;
@@ -47,7 +44,6 @@ button:hover {
 }
 
 /* Confetti canvas */
-
 canvas {
   position: fixed;
   top: 0;
