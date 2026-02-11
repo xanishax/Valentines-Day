@@ -10,7 +10,7 @@ body {
 
 /* Bunny Image */
 .bunny {
-  width: 35vw;   /* 15% of screen width */
+  width: 50vw;   /* 50% of screen width */
   max-width: 100px;
   height: auto;
   margin-bottom: 10px;
